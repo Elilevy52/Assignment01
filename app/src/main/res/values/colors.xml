@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Game screen -->
+    <color name="grass">#FF558B2F</color>
+    <color name="road">#FF424242</color>
+    <color name="lane_line">#B3FFFFFF</color>
+    <color name="button">#FFE91E63</color>
+    <color name="car">#FFFFEB3B</color>
+</resources>

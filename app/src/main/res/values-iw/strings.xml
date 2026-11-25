@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment01</string>
+    <string name="move_left">זוז שמאלה</string>
+    <string name="move_right">זוז ימינה</string>
+    <string name="crash">💥 התנגשות!</string>
+    <string name="game_over">😭 המשחק נגמר! מתחילים מחדש…</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment01</string>
+    <string name="move_left">Move left</string>
+    <string name="move_right">Move right</string>
+    <string name="crash">💥 Crash!</string>
+    <string name="game_over">😭 Game Over! Starting again…</string>
+</resources>
