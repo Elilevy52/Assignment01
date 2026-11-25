@@ -35,4 +35,4 @@ Only the default Android Studio project libraries: `core-ktx`, `appcompat`,
 
 ## Video
 
-<!-- Add the link to the gameplay video here -->
+[Watch the gameplay video](https://drive.google.com/file/d/1CZHKBKuTGMMx-VPeDNDwOxIPzDJzMs35/view?usp=sharing)
